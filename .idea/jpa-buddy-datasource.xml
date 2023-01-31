@@ -3,6 +3,7 @@
   <component name="JpbDataSourceConfig">
     <data-sources>
       <data-source id="afb298f4-4d38-41d4-ba62-3bd49c7a5911" name="order-service" url="jdbc:mysql://localhost:3306/order-service" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="c94c91e7-eaa5-40f8-ae32-57cc450b2d50" name="keycloak" url="jdbc:mysql://localhost:3307/keycloak" driverClass="com.mysql.cj.jdbc.Driver" />
     </data-sources>
   </component>
 </project>
